@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.so
+*.dylib
+.env
+.venv
+env/
+venv/
+ENV/
+.mypy_cache/
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# MuJoCo
+*.mjb
+mjkey.txt
+*.glsl
+
+# MATLAB
+*.asv
+*.m~
+*.mlapp
+*.mlx
+*.mex*
+*.p
+slprj/
+sccprj/
+codegen/
+*.autosave
+*.mdl.r*
+*.slx.r*
+octave-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
